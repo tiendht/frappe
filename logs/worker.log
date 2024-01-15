@@ -1,0 +1,32 @@
+2024-01-15 15:46:52,279 Worker rq:worker:376a65f8fc7a4454b2866dbbb0aacc24 started with PID 28543, version 1.15.1
+2024-01-15 15:46:52,279 Subscribing to channel rq:pubsub:376a65f8fc7a4454b2866dbbb0aacc24
+2024-01-15 15:46:52,281 *** Listening on home-tiendang-projects-frappe-bench:short, home-tiendang-projects-frappe-bench:default, home-tiendang-projects-frappe-bench:long...
+2024-01-15 15:46:52,282 Cleaning registries for queue: home-tiendang-projects-frappe-bench:short
+2024-01-15 15:46:52,284 Cleaning registries for queue: home-tiendang-projects-frappe-bench:default
+2024-01-15 15:46:52,285 Cleaning registries for queue: home-tiendang-projects-frappe-bench:long
+2024-01-15 15:58:06,439 Worker 376a65f8fc7a4454b2866dbbb0aacc24 [PID 28543]: warm shut down requested
+2024-01-15 15:58:06,441 Unsubscribing from channel rq:pubsub:376a65f8fc7a4454b2866dbbb0aacc24
+2024-01-15 16:00:04,315 Worker rq:worker:d84c6f4113874b3b9d5399571c675469 started with PID 28684, version 1.15.1
+2024-01-15 16:00:04,315 Subscribing to channel rq:pubsub:d84c6f4113874b3b9d5399571c675469
+2024-01-15 16:00:04,317 *** Listening on home-tiendang-projects-frappe-bench:short, home-tiendang-projects-frappe-bench:default, home-tiendang-projects-frappe-bench:long...
+2024-01-15 16:00:04,318 Cleaning registries for queue: home-tiendang-projects-frappe-bench:short
+2024-01-15 16:00:04,319 Cleaning registries for queue: home-tiendang-projects-frappe-bench:default
+2024-01-15 16:00:04,321 Cleaning registries for queue: home-tiendang-projects-frappe-bench:long
+2024-01-15 16:05:34,735 Worker d84c6f4113874b3b9d5399571c675469 [PID 28684]: warm shut down requested
+2024-01-15 16:05:34,737 Unsubscribing from channel rq:pubsub:d84c6f4113874b3b9d5399571c675469
+2024-01-15 16:06:48,147 Worker rq:worker:5ebe46d4912d43ba8b03b4c1fcef0eb0 started with PID 28803, version 1.15.1
+2024-01-15 16:06:48,148 Subscribing to channel rq:pubsub:5ebe46d4912d43ba8b03b4c1fcef0eb0
+2024-01-15 16:06:48,150 *** Listening on home-tiendang-projects-frappe-bench:short, home-tiendang-projects-frappe-bench:default, home-tiendang-projects-frappe-bench:long...
+2024-01-15 16:06:48,151 Cleaning registries for queue: home-tiendang-projects-frappe-bench:short
+2024-01-15 16:06:48,153 Cleaning registries for queue: home-tiendang-projects-frappe-bench:default
+2024-01-15 16:06:48,154 Cleaning registries for queue: home-tiendang-projects-frappe-bench:long
+2024-01-15 16:10:31,818 Worker 5ebe46d4912d43ba8b03b4c1fcef0eb0 [PID 28803]: warm shut down requested
+2024-01-15 16:10:31,820 Unsubscribing from channel rq:pubsub:5ebe46d4912d43ba8b03b4c1fcef0eb0
+2024-01-15 16:10:51,185 Worker rq:worker:3bd25ee6c1794275b317a341e6309cda started with PID 28936, version 1.15.1
+2024-01-15 16:10:51,185 Subscribing to channel rq:pubsub:3bd25ee6c1794275b317a341e6309cda
+2024-01-15 16:10:51,187 *** Listening on home-tiendang-projects-frappe-bench:short, home-tiendang-projects-frappe-bench:default, home-tiendang-projects-frappe-bench:long...
+2024-01-15 16:10:51,188 Cleaning registries for queue: home-tiendang-projects-frappe-bench:short
+2024-01-15 16:10:51,190 Cleaning registries for queue: home-tiendang-projects-frappe-bench:default
+2024-01-15 16:10:51,191 Cleaning registries for queue: home-tiendang-projects-frappe-bench:long
+2024-01-15 16:14:50,655 Worker 3bd25ee6c1794275b317a341e6309cda [PID 28936]: warm shut down requested
+2024-01-15 16:14:50,658 Unsubscribing from channel rq:pubsub:3bd25ee6c1794275b317a341e6309cda
