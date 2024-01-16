@@ -1,0 +1,34 @@
+2024-01-16 11:28:08,866 DEBUG cd frappe-bench && python3.10 -m venv env
+2024-01-16 11:28:11,662 DEBUG cd frappe-bench && /home/tiendang/projects/frappe-bench/env/bin/python -m pip install --quiet --upgrade pip
+2024-01-16 11:28:13,350 DEBUG cd frappe-bench && /home/tiendang/projects/frappe-bench/env/bin/python -m pip install --quiet wheel
+2024-01-16 11:28:15,469 LOG Getting frappe
+2024-01-16 11:28:15,469 DEBUG cd frappe-bench/apps && git clone https://github.com/frappe/frappe.git --branch version-15 --depth 1 --origin upstream
+2024-01-16 11:28:29,596 LOG Installing frappe
+2024-01-16 11:28:29,596 DEBUG cd /home/tiendang/projects/frappe-bench && /home/tiendang/projects/frappe-bench/env/bin/python -m pip install --quiet --upgrade -e /home/tiendang/projects/frappe-bench/apps/frappe 
+2024-01-16 11:29:00,985 DEBUG cd /home/tiendang/projects/frappe-bench/apps/frappe && yarn install
+2024-01-16 11:29:09,129 WARNING restart failed: Couldn't find supervisorctl in PATH
+2024-01-16 11:29:09,129 DEBUG cd frappe-bench && bench build
+2024-01-16 11:29:09,208 INFO /home/tiendang/envs/frappe_env/bin/bench build
+2024-01-16 11:29:26,787 LOG setting up backups
+2024-01-16 11:29:26,796 LOG backups were set up
+2024-01-16 11:29:26,796 INFO Bench frappe-bench initialized
+2024-01-16 11:29:37,000 INFO /home/tiendang/envs/frappe_env/bin/bench new-site tiendht.com
+2024-01-16 11:30:55,598 INFO /home/tiendang/envs/frappe_env/bin/bench new-site tiendht.com
+2024-01-16 11:31:09,228 INFO /home/tiendang/envs/frappe_env/bin/bench new-site tientest.com
+2024-01-16 11:31:58,338 INFO /home/tiendang/envs/frappe_env/bin/bench --help
+2024-01-16 11:33:51,419 INFO /home/tiendang/envs/frappe_env/bin/bench drop-site tiendht.com
+2024-01-16 11:34:13,064 INFO /home/tiendang/envs/frappe_env/bin/bench drop-site tiendht.com --force
+2024-01-16 11:34:25,632 INFO /home/tiendang/envs/frappe_env/bin/bench start
+2024-01-16 11:34:25,837 INFO /home/tiendang/envs/frappe_env/bin/bench schedule
+2024-01-16 11:34:25,842 INFO /home/tiendang/envs/frappe_env/bin/bench worker
+2024-01-16 11:34:25,847 INFO /home/tiendang/envs/frappe_env/bin/bench watch
+2024-01-16 11:34:25,851 INFO /home/tiendang/envs/frappe_env/bin/bench serve --port 8000
+2024-01-16 11:35:57,256 INFO /home/tiendang/envs/frappe_env/bin/bench --site tientest.com add-to-hosts
+2024-01-16 11:36:00,584 INFO /home/tiendang/envs/frappe_env/bin/bench start
+2024-01-16 11:36:00,788 INFO /home/tiendang/envs/frappe_env/bin/bench serve --port 8000
+2024-01-16 11:36:00,806 INFO /home/tiendang/envs/frappe_env/bin/bench watch
+2024-01-16 11:36:00,807 INFO /home/tiendang/envs/frappe_env/bin/bench worker
+2024-01-16 11:36:00,808 INFO /home/tiendang/envs/frappe_env/bin/bench schedule
+2024-01-16 13:10:11,128 INFO /home/tiendang/envs/frappe_env/bin/bench new-app library_management
+2024-01-16 13:10:11,133 LOG creating new app library_management
+2024-01-16 13:10:27,448 WARNING /home/tiendang/envs/frappe_env/bin/bench new-app library_management executed with exit code 1

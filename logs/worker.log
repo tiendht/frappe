@@ -1,0 +1,19 @@
+2024-01-16 11:34:26,492 Worker rq:worker:9989e76184824b4aaa1da83bc7226850 started with PID 1769, version 1.15.1
+2024-01-16 11:34:26,492 Subscribing to channel rq:pubsub:9989e76184824b4aaa1da83bc7226850
+2024-01-16 11:34:26,493 *** Listening on home-tiendang-projects-frappe-bench:short, home-tiendang-projects-frappe-bench:default, home-tiendang-projects-frappe-bench:long...
+2024-01-16 11:34:26,494 Cleaning registries for queue: home-tiendang-projects-frappe-bench:short
+2024-01-16 11:34:26,495 Cleaning registries for queue: home-tiendang-projects-frappe-bench:default
+2024-01-16 11:34:26,496 Cleaning registries for queue: home-tiendang-projects-frappe-bench:long
+2024-01-16 11:35:39,866 Worker 9989e76184824b4aaa1da83bc7226850 [PID 1769]: warm shut down requested
+2024-01-16 11:35:39,867 Unsubscribing from channel rq:pubsub:9989e76184824b4aaa1da83bc7226850
+2024-01-16 11:36:01,495 Worker rq:worker:50e9ede6c1e445b0bcd2f84d02a3b3f7 started with PID 1882, version 1.15.1
+2024-01-16 11:36:01,495 Subscribing to channel rq:pubsub:50e9ede6c1e445b0bcd2f84d02a3b3f7
+2024-01-16 11:36:01,496 *** Listening on home-tiendang-projects-frappe-bench:short, home-tiendang-projects-frappe-bench:default, home-tiendang-projects-frappe-bench:long...
+2024-01-16 11:36:01,497 Cleaning registries for queue: home-tiendang-projects-frappe-bench:short
+2024-01-16 11:36:01,499 Cleaning registries for queue: home-tiendang-projects-frappe-bench:default
+2024-01-16 11:36:01,500 Cleaning registries for queue: home-tiendang-projects-frappe-bench:long
+2024-01-16 13:09:33,261 Cleaning registries for queue: home-tiendang-projects-frappe-bench:short
+2024-01-16 13:09:33,263 Cleaning registries for queue: home-tiendang-projects-frappe-bench:default
+2024-01-16 13:09:33,265 Cleaning registries for queue: home-tiendang-projects-frappe-bench:long
+2024-01-16 13:10:06,667 Worker 50e9ede6c1e445b0bcd2f84d02a3b3f7 [PID 1882]: warm shut down requested
+2024-01-16 13:10:06,668 Unsubscribing from channel rq:pubsub:50e9ede6c1e445b0bcd2f84d02a3b3f7
